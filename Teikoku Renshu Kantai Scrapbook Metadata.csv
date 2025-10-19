@@ -1,18 +1,18 @@
 ﻿Unique Identifier,File Name,Original Document Date,Content Type,Featured Location,People/Groups Depicted / Mentioned,Image Description,Physical Condition,Image Caption (s),Language,Miscellaneous Comments (part of larger piece or not)
-TRK 1,TeikokuRenshuKantai_1936_Scrapbook_FrontCover.jpg,N/A,Commercially Produced Scrapbook Cover,N/A,N/A,N/A,Cover is wrinkled and creased from age,N/A,English,Cover of entire scrapbook
-TRK 2,TeikokuRenshuKantai_1936_Scrapbook_Page2.jpg,1936,Cover of collection of compositions welcoming Japan's training fleet.,"Tacoma, Washington",Japan's training fleet / navy,N/A,"Minimal signs of age, slight wear on edges of pages",N/A,Japanese,Cover of collection of 24 pages
-TRK 29,TeikokuRenshuKantai_1936_Scrapbook_Page29.jpg,1936,English map with Japanese descriptions/labels on either side,"Seattle, Washington",N/A,Simple hand-drawn map of Seattle with numeric labels along with some English label,"Slight signs of wear in creases and on edges, but overall in good condition","Seattle, Washington 1936",English / Japanese,Folds out of page
-TRK 30,TeikokuRenshuKantai_1936_Scrapbook_Page30.jpg,N/A,Two post cards from Washington,"Puyallup Valley, Washington 
+TRK 1,FrontCover_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,Commercially Produced Scrapbook Cover,N/A,N/A,N/A,Cover is wrinkled and creased from age,N/A,English,Cover of entire scrapbook
+TRK 2,002_TeikokuRenshuKantai_1936_Scrapbook.jpg,1936,Cover of collection of compositions welcoming Japan's training fleet.,"Tacoma, Washington",Japan's training fleet / navy,N/A,"Minimal signs of age, slight wear on edges of pages",N/A,Japanese,Cover of collection of 24 pages
+TRK 29,029_TeikokuRenshuKantai_1936_Scrapbook,1936,English map with Japanese descriptions/labels on either side,"Seattle, Washington",N/A,Simple hand-drawn map of Seattle with numeric labels along with some English label,"Slight signs of wear in creases and on edges, but overall in good condition","Seattle, Washington 1936",English / Japanese,Folds out of page
+TRK 30,030_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,Two post cards from Washington,"Puyallup Valley, Washington 
 Mt. Rainier, Washington 
 Sunrise Park, Washington",N/A,"Postcards with white boarders, prints of scenic paintings with a label of landscape and Mt. Rainier","No signs of significant wear, text is fading on the lower card","1. 6711 MOUNT RAINIER FROM PUYALLUP VALLEY, WASHINGTON 5A-H1390
 2. 1648 --- MT. RAINIER, WASH., AS SEEN FROM SUNRISE RIDGE IN SUNRISE PARK",English,Pasted onto page with no visible tape / adhesive
-TRK 31,TeikokuRenshuKantai_1936_Scrapbook_Page31.jpg,N/A,"Two post cards, one with labels and one without",Washington,N/A,"One postcard with white border and caption, the other with no border and no captions
+TRK 31,031_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,"Two post cards, one with labels and one without",Washington,N/A,"One postcard with white border and caption, the other with no border and no captions
 1. Scenic view of Mt. Rainier and its reflection in the lake lined with trees
 2. Sunset view of a river rapid with trees along the sides and rocks visible from the water",Minimal wear on edges,75 MOUNT RAINIER REFLECTED IN MIRROR LAKE 5A-H2658,English,Pasted onto page with white tape on corners
-TRK 38,TeikokuRenshuKantai_1936_Scrapbook_Page38.jpg,1936,Cover of pamphlet describing the SF-Oakland Bay Bridge in detail,"San Francisco, CA",N/A," Drawing of grey bridge with blue water underneath and brown landmass in background, bubble letter title with orange highlights, 35c price in the top right corner","Signs of wear and use, especially in weak spine","SAN FRANCISCO OAKLAND BAY BRIDGE
+TRK 38,038_TeikokuRenshuKantai_1936_Scrapbook.jpg,1936,Cover of pamphlet describing the SF-Oakland Bay Bridge in detail,"San Francisco, CA",N/A," Drawing of grey bridge with blue water underneath and brown landmass in background, bubble letter title with orange highlights, 35c price in the top right corner","Signs of wear and use, especially in weak spine","SAN FRANCISCO OAKLAND BAY BRIDGE
 A TECHNICAL DESCRIPTION IN ORDINARY LANGUAGE
 $35c",English,Cover of collection of 64 pages
-TRK 108,TeikokuRenshuKantai_1936_Scrapbook_Page108.jpg,N/A,Two post cards from San Francisco,"San Francisco, CA
+TRK 108,108_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,Two post cards from San Francisco,"San Francisco, CA
 Golden Gate Bridge
 City Hall",Stanley A. Piltz - Postcard Copyrights,"1. Postcard with white border and caption, image is of San Francisco's City Hall 
 2. Postcard with white border and caption, image is of the Golden Gate Bridge from afar, with trees and shrubbery in the front",Minimal stains and wear on edges,"1. THE CITY HALL, CIVIC CENTER, SAN FRANCISCO, CALIF.
@@ -22,7 +22,7 @@ STANLEY A. PILTZ
 2. ""THE GOLDEN GATE"", SHOWING GOLDEN GATE BRIDGE, SAN FRANCISCO, CALIF.
 87
 STANLEY A. PILTZ.",English,Pasted onto page with white tape on corners
-TRK 109,TeikokuRenshuKantai_1936_Scrapbook_Page109.jpg,N/A,"One post card from Berkeley, CA, and one postcard from San Francisco, CA","University of California, Berkeley, CA
+TRK 109,109_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,"One post card from Berkeley, CA, and one postcard from San Francisco, CA","University of California, Berkeley, CA
 Berkeley, CA 
 The Legion of Honor, San Francisco, CA","Californians, Inc - Photo Credits
 Unidentifiable people in Legion of Honor postcard","1. Postcard  with white border and caption depicting the campanile at the UC Berkeley Campus
@@ -32,7 +32,7 @@ Unidentifiable people in Legion of Honor postcard","1. Postcard  with white bord
 2. THE GOLDEN GATE FROM PALACE OF THE LEGION OF HONOR, SAN FRANCISCO, CALIF. 
 92
 CALIFORNIANS, INC PHOTO",English,Pasted onto page with white tape on corners
-TRK 110,TeikokuRenshuKantai_1936_Scrapbook_Page110.jpg,N/A,"Two post cards from California, one from San Francisco and one from the Redwood Highway","San Francisco, CA
+TRK 110,110_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,"Two post cards from California, one from San Francisco and one from the Redwood Highway","San Francisco, CA
 Mile Rock Lighthouse
 Trinidad 
 Redwood Highway, CA",N/A,"1. Postcard with white border and caption, image is of waves breaking on rocks near Mile Rock Lighhouse, looking across the ocean towards Marin County",Stained edges,"1. GIANT BREAKERS, MILE ROCK LIGHTHOUSE, LOOKING ACROSS ""THE GOLDEN GATE"",
@@ -42,7 +42,7 @@ SAN FRANCISCO, CA
 2. ALONG THE TRINIDAD COAST
 REDWOOD HIGHWAY, CALIFORNIA
 6A-H126",English,Pasted onto page with white tape on corners
-TRK 111,TeikokuRenshuKantai_1936_Scrapbook_Page111.jpg,N/A,"Two post cards from California, one from San Francisco and one from Humboldt, CA","San Francisco, CA
+TRK 111,111_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,"Two post cards from California, one from San Francisco and one from Humboldt, CA","San Francisco, CA
 Humboldt State Redwood Park, CA
 Redwood Highway, CA","Unidentifiable man
 Stanley A. Piltz - Postcard Copyrights","1. Postcard with white border and caption of ferries leaving the piers of San Francisco to travel across the Bay 
@@ -52,7 +52,7 @@ STANLEY A. PILTZ
 2. A  FALLEN GIANT, HUMBOLDT STATE REDWOOD PARK
 6A
 REDWOOD HIGHWAY, CALIFORNIA",English,Pasted onto page with white tape on corners
-TRK 112,TeikokuRenshuKantai_1936_Scrapbook_Page112.jpg,N/A,"Two post cards from the Redwood Highway, CA","Redwood Highway, CA
+TRK 112,112_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,"Two post cards from the Redwood Highway, CA","Redwood Highway, CA
 Richardson Grove, CA
 Humboldt State Redwood Park, CA
 Lilley Redwood Park, CA",N/A,"1. Postcard with white borders and caption, depicting a large quadruped tree that has been customzied with windows and a chimney in Lilley  Redwood Park, CA with cabins and trees in the backround 
@@ -62,19 +62,19 @@ REDWOOD HIGHWAY, CALIFORNIA
 2. HUMBOLDT STATE REDWOOD PARK, RICHARDSON GROVE
 REDWOOD HIGHWAY, CALIFORNIA
 6A-H124",English,Pasted onto page with white tape on corners
-TRK 113,TeikokuRenshuKantai_1936_Scrapbook_Page113.jpg,N/A,"One post card from the Redwood Highway, CA, and one image of a suspension bridge resembling the San Francisco - Oakland Bay bridge","Redwood Highway, CA 
+TRK 113,113_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,"One post card from the Redwood Highway, CA, and one image of a suspension bridge resembling the San Francisco - Oakland Bay bridge","Redwood Highway, CA 
 San Francisco, CA
 Oakland, CA",N/A,"1. Vertical postcard with white borders and caption, depicting the stump of the Del Norte Wonder Tree, with labels that suggest the age of the tree 
 2. A black and white image of a suspension bridge, likely the SF - Oakland Bay  bridge, with trees in the front and night city lights in the back",No signs of significant wear ,"1. THE DEL NORTE WONDER TREE
 REDWOOD HIGHWAY, CALIFORNIA
 5AH-779",English,"Pasted onto page with white tape on corners
 Labels on image show the width of 9ft = 1500yrs estimated age, 8ft = 1000yrs estimated age"
-TRK 114,TeikokuRenshuKantai_1936_Scrapbook_Page114.jpg,12/20/1935 (1st photograph),Three black and white photographs ,"San Francisco, CA
+TRK 114,114_TeikokuRenshuKantai_1936_Scrapbook.jpg,12/20/1935 (1st photograph),Three black and white photographs ,"San Francisco, CA
 Oakland, CA",N/A,"Page showing three black and white photographs of a large suspension bridge,likely the SF - Oakland  Bay Bridge possibly under construction. Left photo shows an airplane beacon atop one of the bridge's towers, the top right shows the bridge's central suspension span, and the bottom depicts the full bridge across the bay with vessels below.",No signs of significant wear ,"1. 12-20-35
 Airplane Beacon
 Span E-5
 11-15",English,Pasted onto page with white tape on corners
-TRK 115,TeikokuRenshuKantai_1936_Scrapbook_Page115.jpg,"11-26-35 (2nd photograph)
+TRK 115,115_TeikokuRenshuKantai_1936_Scrapbook.jpg,"11-26-35 (2nd photograph)
 X-13-35 (3rd photograph, cannot see month)",Three black and white photographs ,"San Francisco, CA
 Oakland, CA",N/A,"1. A large bridge truss suspended in the air during construction with skyline in background
 2. Tunner interior with scaffolding and interior lighting
@@ -83,27 +83,27 @@ Tunnel
 5-1710
 3. 13-35 North Cable - Center Anchorage 
 6-1555",English,Pasted onto page with white tape on corners
-TRK 116,TeikokuRenshuKantai_1936_Scrapbook_Page116.jpg,"July 16-20, 1936","Cover of Japanese guidebook to Los Angeles, CA","Los Angeles, CA (not explicitly mentioned on cover)",Iwate and Yakumo training fleets,"Blue cover page with red and white Rising Sun flag design, vertical Japanese text to the left of flag, with more on the bottom. English date at the very bottom.",Stains and significant wear on edges,N/A,Japanese / English,Pasted onto page with no visible tape / adhesive
-TRK 163,TeikokuRenshuKantai_1936_Scrapbook_Page163.jpg,1936,Inside of Ford advertisement brochure with text and visual,N/A,Ford Motor Company,"Promotional brochure for 1936 Ford V-8 engine, highlighitng its improvements in recent years. It features an image with a caption at the top and paragraphs of text below.",Small signs of wear on edges and in crease of brochure,THE LAST FEW YEARS HAVE BROUGHT GREAT CHANGES,English,Pasted onto page with no visible tape / adhesive
-TRK 190,TeikokuRenshuKantai_1936_Scrapbook_Page190.jpg,1936 (second material),Pamphlet of images/postcards and a Pocket sized brochure pasted on the page,"Los Angeles, CA 
+TRK 116,116_TeikokuRenshuKantai_1936_Scrapbook.jpg,"July 16-20, 1936","Cover of Japanese guidebook to Los Angeles, CA","Los Angeles, CA (not explicitly mentioned on cover)",Iwate and Yakumo training fleets,"Blue cover page with red and white Rising Sun flag design, vertical Japanese text to the left of flag, with more on the bottom. English date at the very bottom.",Stains and significant wear on edges,N/A,Japanese / English,Pasted onto page with no visible tape / adhesive
+TRK 163,163_TeikokuRenshuKantai_1936_Scrapbook.jpg,1936,Inside of Ford advertisement brochure with text and visual,N/A,Ford Motor Company,"Promotional brochure for 1936 Ford V-8 engine, highlighitng its improvements in recent years. It features an image with a caption at the top and paragraphs of text below.",Small signs of wear on edges and in crease of brochure,THE LAST FEW YEARS HAVE BROUGHT GREAT CHANGES,English,Pasted onto page with no visible tape / adhesive
+TRK 190,190_TeikokuRenshuKantai_1936_Scrapbook.jpg,1936 (second material),Pamphlet of images/postcards and a Pocket sized brochure pasted on the page,"Los Angeles, CA 
 Point Firmin
 Los Angeles Harbor
 Southern California",M. Kashower Co. - Publisher,"1) Pamphlet of images/postcards with labels of various Southern Californian locations, with the cover being a cliffside view of Point Firmin
 2) Yellow and black pocket sized square brochure of the history of Los Angeles's water supply and water works with illustrations of a water wheel and skyline",Small signs of wear on edges and in crease of brochure,"1. Point Firmin and Lighthouse, Los Angeles Harbor, Calif.
 2. WATER WHEELS OF PROGRESS 
 1936",English,"Pasted onto page with no visible tape / adhesive, both pieces have multiple pages and the covers are the pieces featured here"
-TRK 215,TeikokuRenshuKantai_1936_Scrapbook_Page215.jpg,N/A,"Two postcards from San Pedro, CA","San Pedro, CA
+TRK 215,215_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,"Two postcards from San Pedro, CA","San Pedro, CA
 Los Angeles Harbor
 Pecks Park, Point Firmin, CA",N/A,"1. Postcard with white border and caption of boats with lumber at the LA Harbor 
 2. Scenic view of Pecks Park with flowers, trees, and neat dirt paths",Minimal wear on corners,"1. SP. 13 LUMBER ARRIVING AT LOS ANGELES HARBOR, SAN PEDRO, CALIFORNIA
 123657
 2. Pecks Park, Point Firmin, San Pedro, California.",English,Pasted onto page with white tape on corners
-TRK 221,TeikokuRenshuKantai_1936_Scrapbook_Page221.jpg,N/A,"Two postcards from Los Angeles, CA","Los Angeles, CA",N/A,"1. Postcard with white border and caption of the LA county general hospital, with trees in front and a blue sky 
+TRK 221,221_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,"Two postcards from Los Angeles, CA","Los Angeles, CA",N/A,"1. Postcard with white border and caption of the LA county general hospital, with trees in front and a blue sky 
 2. Postcard with white border and caption of the Times Building with palm tree leaves in the corners, and two american flags atop the buildings",Minimal wear on edges,"1. 191 THE LOS ANGELES COUNTY GENERAL HOSPITAL, LOS ANGELES, CALIFORNIA 
 3A-H1330
 2. 196 THE TIMES BUILDING, LOS ANGELES, CALIFORNIA 
 6A-H17",English,Pasted onto page with no visible tape / adhesive
-TRK 224,TeikokuRenshuKantai_1936_Scrapbook_Page224.jpg,N/A,Two postcards from Panama,"San Blas Islands, Panama
+TRK 224,224_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A,Two postcards from Panama,"San Blas Islands, Panama
 Panama
 Panama City
 ",San Blas Bride,"1. Postcard with white border and caption depicting a woman from San Blas in traditional bridal attire, with textiles and jewelry.
@@ -115,21 +115,21 @@ SAN BLAS INDIAN BRIDE IN BRIDAL ATTIRE, SAN BLAS, PANAMA
 SANTA ANA CHURCH AND PARK, PANAMA CITY
 146B
 99220",English / Spanish,Pasted onto page with no visible tape / adhesive
-TRK 242,TeikokuRenshuKantai_1936_Scrapbook_Page242.jpg,1936,Cover of Cuba Guidebook for members of Japanese Imperial Fleet,Cuba,Japanese imperial navy,"Printed pamphlet cover in blue ink with Japanese titles, includes illutration of lighthouse with palm trees and a circular map of the Caribbean, showing Mexico, Central America, and the Caribbean islands with Japanese labels","Heavy wear, page ripped, corner folded, not many page stains",N/A,Japanese,"Pasted onto page with no visible tape / adhesive, piece has 8 pages and the cover is what is featured here"
-TRK 256,TeikokuRenshuKantai_1936_Scrapbook_Page256.jpg,1925,"Cover of Souvenir book for Havana, Cuba","Havana, Cuba",N/A,"Printed pamphlet cover that has english and spanish title, with an image of Havana in the center depicting the  a stone part of a building and the city with a canal with a boat in it",Decent wear on edges and spine of book,"SOUVENIR OF HAVANA.
+TRK 242,242_TeikokuRenshuKantai_1936_Scrapbook.jpg,1936,Cover of Cuba Guidebook for members of Japanese Imperial Fleet,Cuba,Japanese imperial navy,"Printed pamphlet cover in blue ink with Japanese titles, includes illutration of lighthouse with palm trees and a circular map of the Caribbean, showing Mexico, Central America, and the Caribbean islands with Japanese labels","Heavy wear, page ripped, corner folded, not many page stains",N/A,Japanese,"Pasted onto page with no visible tape / adhesive, piece has 8 pages and the cover is what is featured here"
+TRK 256,256_TeikokuRenshuKantai_1936_Scrapbook.jpg,1925,"Cover of Souvenir book for Havana, Cuba","Havana, Cuba",N/A,"Printed pamphlet cover that has english and spanish title, with an image of Havana in the center depicting the  a stone part of a building and the city with a canal with a boat in it",Decent wear on edges and spine of book,"SOUVENIR OF HAVANA.
 RECUERDO DE LA HABANA.",English / Spanish,"Pasted onto page with no visible tape / adhesive, piece has 16 pages and the cover is what is featured here"
-TRK 272,TeikokuRenshuKantai_1936_Scrapbook_Page272.jpg,1934,Illustrated Postcards of Mt. Vernon VA,"Mt. Vernon, VA",MT. V. L. A. of the U (Ladies' association?),"1. Bedroom scene with a canopy bed,green  rugs, wood dresser, sofa chair
+TRK 272,272_TeikokuRenshuKantai_1936_Scrapbook.jpg,1934,Illustrated Postcards of Mt. Vernon VA,"Mt. Vernon, VA",MT. V. L. A. of the U (Ladies' association?),"1. Bedroom scene with a canopy bed,green  rugs, wood dresser, sofa chair
 2. Staircase hall with banister, grandfather clock, and doorway, wood and blue accents to the white/light green house color",No signs of significant wear ,"1. THIRD STORY CHAMBER, MOUNT VERNON
 C 1934
 MT. V. L. A. OF THE U.
 2. HALL AND STAIRWAY AT MOUNT VERNON
 C 1934
 MT. V. L. A. OF THE U.",English,Pasted onto page with no visible tape / adhesive
-TRK 289,TeikokuRenshuKantai_1936_Scrapbook_Page289.jpg,N/A (likely 1930s),Souvenir booklet cover with photographs inside,"New York City, NY
+TRK 289,289_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A (likely 1930s),Souvenir booklet cover with photographs inside,"New York City, NY
 American Museum of Natural History",Museum visitors (?),"Black and white cover showing the outside of the American Museum of Natural History, english text and caption","Minimal signs of age, slight wear on edges of pages","Photographic Souvenir 
 16 Pictures 
 American Museum of Natural History",English,Pasted onto page with no visible tape / adhesive
-TRK 299,TeikokuRenshuKantai_1936_Scrapbook_Page299.jpg,N/A (likely 1930s),Tourist map / brochure cover,"Hudson River, NY
+TRK 299,299_TeikokuRenshuKantai_1936_Scrapbook.jpg,N/A (likely 1930s),Tourist map / brochure cover,"Hudson River, NY
 New York City, NY",Hudson River Day Line,"Blue printed cover with illustration of steamboat on the river with mountains on either side, English title with USD price",Stains and slight wear on edges,"TOURIST MAP OF HUDSON RIVER
 PRICE 15cts
 ALONG THE ROUTE OF THE HUDSON RIVER DAY LINE",English,Pasted onto page with no visible tape / adhesive
