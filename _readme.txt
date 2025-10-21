@@ -8,7 +8,7 @@ https://find.library.upenn.edu/catalog/9968827463503681?hld_id=resource_link_0
 
 
 
-
+GENERATING METADATA:
 When designing my metadata fields, I knew that I would have to make unique categories, because a scrapbook is an unusual piece to analyze. Since there was so much variety within the book, 
 I knew that my categories would have to be effective for many different types of materials. To understand the story and history of the scrapbook, I included the date of the original 
 document(s) on each page if it was available. Even though the book is from 1936, each material within it was created at a different time and place. I think it is beneficial to know the 
@@ -21,7 +21,7 @@ what appeared directly on the scrapbook pages, as that is the piece I’m modeli
 some variation and wanted to provide more details about the piece’s physical condition. Additionally, I had a physical condition column, where I noted the wear of each page’s materials. 
 Finally, I had a language tab where I recorded the languages on each page, because there were some variations and pages with multiple languages.
 
-
+CLEANING TEXT:
 For the second assignment, I used OCR and HTR software to digitize the 25 pages I selected. Although my pages were not completely filled with text like a standard novel, they were 
 complicated to translate to .txt files because of their irregular and inconsistent formatting. I used a variety of software, and I needed to use the both HTR and OCR because my document 
 has a mixture of handwriting and print. I started with using the built in Apple OCR, and this was effective for my simpler documents, especially the postcards with no text in the images 
